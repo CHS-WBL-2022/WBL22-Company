@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Adidamize Pricing</title>
+  </head>
+  <body>
+
+    <h1> Adidamize Pricing </h1> 
+
+    <p>The price of our products:</p>
+      
+     <ol>
+       <li> Shoes: $100-$250</li>
+       <li> Clothing: $25-$150</li>
+       <li> Accessories: $10 - 80$</li> 
+    </ol>
